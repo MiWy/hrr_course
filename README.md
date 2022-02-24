@@ -5,9 +5,9 @@ Zajęcia fakultatywne dla studentów kognitywistyki na Uniwersytecie im. Adama M
 
 <details>
 	<summary>Masz trudności technologiczne, psychologiczne i/lub inne? :mega:</summary>
-Jeśli doświadczasz kryzysu emocjonalnego i niepokoju z racji na sytuację pandemiczną, Wydział Psychologii i Kognitywistyki oferuje [bezpłatne wsparcie i konsultacje psychologiczne](http://psychologia.amu.edu.pl/wsparcie/).
-Jeśli czujesz, że studiowanie Cię przerasta, że napotykasz problemy ponad swoje siły i umiejętności, możesz zwrócić się do [psychologicznego konsultanta do spraw trudności w studiowaniu](https://amu.edu.pl/studenci/studenci-z-niepelnosprawnosciami/Psychologiczny-konsultant-ds.-trudnosci-w-procesie-studiowania).
-Jeśli przechodzisz przez gorszy okres lub potrzebujesz wsparcia z innego powodu, nie bój i nie wstydź się zasięgnąć [pomocy psychologicznej](https://amu.edu.pl/studenci/przewodnik_studenta/pomoc-psychologiczna).
+Jeśli doświadczasz kryzysu emocjonalnego i niepokoju z racji na sytuację pandemiczną, Wydział Psychologii i Kognitywistyki oferuje bezpłatne wsparcie i konsultacje psychologiczne: http://psychologia.amu.edu.pl/wsparcie/.
+Jeśli czujesz, że studiowanie Cię przerasta, że napotykasz problemy ponad swoje siły i umiejętności, możesz zwrócić się do psychologicznego konsultanta do spraw trudności w studiowaniu: https://amu.edu.pl/studenci/studenci-z-niepelnosprawnosciami/Psychologiczny-konsultant-ds.-trudnosci-w-procesie-studiowania.
+Jeśli przechodzisz przez gorszy okres lub potrzebujesz wsparcia z innego powodu, nie bój i nie wstydź się zasięgnąć pomocy psychologicznej: https://amu.edu.pl/studenci/przewodnik_studenta/pomoc-psychologiczna.
 Jeśli masz trudności technologiczne lub zdrowotne, uniemożliwiające lub znacznie utrudniające realizowanie przedmiotu, proszę skontaktuj się z nami abyśmy mogli wypracować plan Twojego uczestnictwa w zajęciach.
 </details>
 
@@ -15,7 +15,7 @@ Jeśli masz trudności technologiczne lub zdrowotne, uniemożliwiające lub znac
 
 Napisz do nas na MS Teams albo wyślij e-mail:
 * dawid.ratajczyk [at] amu.edu.pl (dyżur xyz, 110AB/online)
-* michal.wyrwa [at] amu.edu.pl (dyżur xyz, 110AB/online)
+* michal.wyrwa [at] amu.edu.pl (dyżur śr 8-9, 110AB/online)
 
 ### Organizacja
 
@@ -65,11 +65,11 @@ Zaangażowanie w przygotowanie końcowego, grupowego projektu (do 6 pkt)
 
 Ocena końcowa wystawiana jest zgodnie z poniższą skalą:
 
-bdb: co najmniej 18 pkt
-db+: 16.5-17.5 pkt
-db: 15-16 pkt
-dst+: 13.5-14.5 pkt
-dst: 12-13 pkt
-ndst: mniej niż 12 pkt
+* bdb: co najmniej 18 pkt
+* db+: 16.5-17.5 pkt
+* db: 15-16 pkt
+* dst+: 13.5-14.5 pkt
+* dst: 12-13 pkt
+* ndst: mniej niż 12 pkt
 
 Przewidujemy projekt poprawkowy w razie niewystarczającej liczby punktów pod koniec semestru.
