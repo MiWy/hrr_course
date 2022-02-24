@@ -36,8 +36,8 @@ Blok trzeci (16 maj-6 czerwiec) to czas wspólnego pisania zespołowego raportu 
 (Link do materiałów dostępny u prowadzących :imp:)
 Spotykamy się w **poniedziałki o 13:15-14:45 w s. 110 _na Międzychodzkiej!_**
 
-| Data  | Temat                   | |
-| ----- | ----------------------- | |
+| Data  | Temat                   | Materiał |
+| ----- | ----------------------- | ----- |
 | 28.02 | Organizacja             | |
 | 7.03  | #1 wykład wprowadzający  (MW) | |
 | 14.03 | #2 wykład wprowadzający (DR) | |
