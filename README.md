@@ -4,7 +4,7 @@
 Zajęcia fakultatywne dla studentów kognitywistyki na Uniwersytecie im. Adama Mickiewicza w Poznaniu.
 
 <details>
-	<summary>**Masz trudności technologiczne, psychologiczne i/lub inne?** :mega:</summary>
+	<summary><strong>Masz trudności technologiczne, psychologiczne i/lub inne?</strong> :mega:</summary>
 
 Jeśli doświadczasz kryzysu emocjonalnego i niepokoju z racji na sytuację pandemiczną, Wydział Psychologii i Kognitywistyki oferuje bezpłatne wsparcie i konsultacje psychologiczne: http://psychologia.amu.edu.pl/wsparcie/.
 
