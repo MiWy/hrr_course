@@ -27,7 +27,7 @@ Przedmiot podzielony jest na trzy bloki. Blok pierwszy to zajęcia organizacyjne
 
 [Zapisy mają miejsce tutej]
 
-Blok drugi (21 marzec-9 maja) to czas bardziej Wasz :). Na podstawie świeżych raportów badawczych będziecie przygotowywać odpowiedzi na pytania do tekstu (indywidualne) i (dwuosobowo) wygłaszać prezentacje. **!:warning:!: deadline dostarczenia notatek jest o tydzień wcześniejszy niż termin wygłoszenia prezentacji!**.
+Blok drugi (21 marzec-9 maja) to czas bardziej Wasz :). Na podstawie świeżych raportów badawczych będziecie przygotowywać odpowiedzi na pytania do  (indywidualne) i (dwuosobowo) wygłaszać prezentacje. **!:warning:!: deadline dostarczenia notatek jest o tydzień wcześniejszy niż termin wygłoszenia prezentacji!**.
 
 Blok trzeci (16 maj-6 czerwiec) to czas wspólnego pisania zespołowego raportu końcowego. Każdy tydzień odpowiada pracy nad inną sekcją tekstu. Zaangażowanie każdej osoby ma znaczenie dla jakości całości (i ocen indywidualnych :)).
 
@@ -36,22 +36,22 @@ Blok trzeci (16 maj-6 czerwiec) to czas wspólnego pisania zespołowego raportu 
 (Link do materiałów dostępny u prowadzących :imp:)
 Spotykamy się w **poniedziałki o 13:15-14:45 w s. 110 _na Międzychodzkiej!_**
 
-| Data  | Temat                   |
-| ----- | ----------------------- |
-| 28.02 | Organizacja             |
-| 7.03  | #1 wykład wprowadzający  (MW) |
-| 14.03 | #2 wykład wprowadzający (DR) |
-| 21.03 | #1 Prezentacja          |
-| 28.03 | #2 Prezentacja          |
-| 4.04  | #3 Prezentacja          |
-| 11.04 | #4 Prezentacja          |
-| 25.04 | #5 Prezentacja          |
-| 9.05  | #6 Prezentacja          |
-| 16.05 | #1 Praca nad tekstem (spotkanie)   |
-| 23.05 | #2 Praca nad tekstem    |
-| 30.05 | #3 Praca nad tekstem    |
-| 6.06  | #4 Praca nad tekstem (spotkanie)   |
-| 13.06 | Podsumowanie            |
+| Data  | Temat                   | |
+| ----- | ----------------------- | |
+| 28.02 | Organizacja             | |
+| 7.03  | #1 wykład wprowadzający  (MW) | |
+| 14.03 | #2 wykład wprowadzający (DR) | |
+| 21.03 | #1 Prezentacja          | Diel, A., Weigelt, S., & MacDorman, K. F. (2021). A Meta-analysis of the Uncanny Valley's Independent and Dependent Variables. ACM Transactions on Human-Robot Interaction (THRI), 11(1), 1-33 |
+| 28.03 | #2 Prezentacja          | Phillips, E., Zhao, X., Ullman, D., & Malle, B. F. (2018, March). What is human-like?: Decomposing robots’ human-like appearance using the anthropomorphic robot (abot) database. In 2018 13th ACM/IEEE International Conference on Human-Robot Interaction (HRI) (pp. 105-113) |
+| 4.04  | #3 Prezentacja          | Paetzel, M., Perugia, G., & Castellano, G. (2020, March). The persistence of first impressions: The effect of repeated interactions on the perception of a social robot. In Proceedings of the 2020 ACM/IEEE international conference on human-robot interaction (pp. 73-82) |
+| 11.04 | #4 Prezentacja          | Borau, S., Otterbring, T., Laporte, S., & Fosso Wamba, S. (2021). The most human bot: Female gendering increases humanness perceptions of bots and acceptance of AI. Psychology & Marketing, 38(7), 1052-1068 |
+| 25.04 | #5 Prezentacja          | Spatola, N., Kühnlenz, B., & Cheng, G. (2021). Perception and evaluation in human–robot interaction: The Human–Robot Interaction Evaluation Scale (HRIES)—A multicomponent approach of anthropomorphism. International Journal of Social Robotics, 13(7), 1517-1539 |
+| 9.05  | #6 Prezentacja          | Nicolas, S., & Agnieszka, W. (2021). The personality of anthropomorphism: How the need for cognition and the need for closure define attitudes and anthropomorphic attributions toward robots. Computers in Human Behavior, 122, 106841 |
+| 16.05 | #1 Praca nad tekstem (spotkanie) | |
+| 23.05 | #2 Praca nad tekstem (konsultacje) | |
+| 30.05 | #3 Praca nad tekstem (konsultacje) | |
+| 6.06  | #4 Praca nad tekstem (spotkanie) | |
+| 13.06 | Podsumowanie            | |
 
 ### Polityka oceniania i (nie)obecności
 
