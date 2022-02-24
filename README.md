@@ -5,11 +5,13 @@ Zajęcia fakultatywne dla studentów kognitywistyki na Uniwersytecie im. Adama M
 
 <details>
 	<summary>Masz trudności technologiczne, psychologiczne i/lub inne? :mega:</summary>
+
 Jeśli doświadczasz kryzysu emocjonalnego i niepokoju z racji na sytuację pandemiczną, Wydział Psychologii i Kognitywistyki oferuje bezpłatne wsparcie i konsultacje psychologiczne: http://psychologia.amu.edu.pl/wsparcie/.
 
 Jeśli czujesz, że studiowanie Cię przerasta, że napotykasz problemy ponad swoje siły i umiejętności, możesz zwrócić się do psychologicznego konsultanta do spraw trudności w studiowaniu: https://amu.edu.pl/studenci/studenci-z-niepelnosprawnosciami/Psychologiczny-konsultant-ds.-trudnosci-w-procesie-studiowania.
 
 Jeśli przechodzisz przez gorszy okres lub potrzebujesz wsparcia z innego powodu, nie bój i nie wstydź się zasięgnąć pomocy psychologicznej: https://amu.edu.pl/studenci/przewodnik_studenta/pomoc-psychologiczna.
+
 Jeśli masz trudności technologiczne lub zdrowotne, uniemożliwiające lub znacznie utrudniające realizowanie przedmiotu, proszę skontaktuj się z nami abyśmy mogli wypracować plan Twojego uczestnictwa w zajęciach.
 </details>
 
