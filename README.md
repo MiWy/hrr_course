@@ -27,10 +27,9 @@ Przedmiot podzielony jest na trzy bloki. Blok pierwszy to zajęcia organizacyjne
 
 [Zapisy mają miejsce tutej]
 
-Blok drugi (21 marzec-9 maja) to czas bardziej Wasz :). Na podstawie świeżych raportów badawczych będziecie przygotowywać szczegółowe notatki i (dwuosobowo) wygłaszać prezentacje. **!:warning:!: deadline dostarczenia notatek jest o tydzień wcześniejszy niż termin wygłoszenia prezentacji!**.
+Blok drugi (21 marzec-9 maja) to czas bardziej Wasz :). Na podstawie świeżych raportów badawczych będziecie przygotowywać odpowiedzi na pytania do tekstu (indywidualne) i (dwuosobowo) wygłaszać prezentacje. **!:warning:!: deadline dostarczenia notatek jest o tydzień wcześniejszy niż termin wygłoszenia prezentacji!**.
 
 Blok trzeci (16 maj-6 czerwiec) to czas wspólnego pisania zespołowego raportu końcowego. Każdy tydzień odpowiada pracy nad inną sekcją tekstu. Zaangażowanie każdej osoby ma znaczenie dla jakości całości (i ocen indywidualnych :)).
-
 
 ### :calendar: Terminarz
 
@@ -40,25 +39,25 @@ Spotykamy się w **poniedziałki o 13:15-14:45 w s. 110 _na Międzychodzkiej!_**
 | Data  | Temat                   |
 | ----- | ----------------------- |
 | 28.02 | Organizacja             |
-| 7.03  | #1 wykład wprowadzający |
-| 14.03 | #2 wykład wprowadzający |
+| 7.03  | #1 wykład wprowadzający  (MW) |
+| 14.03 | #2 wykład wprowadzający (DR) |
 | 21.03 | #1 Prezentacja          |
 | 28.03 | #2 Prezentacja          |
 | 4.04  | #3 Prezentacja          |
 | 11.04 | #4 Prezentacja          |
 | 25.04 | #5 Prezentacja          |
 | 9.05  | #6 Prezentacja          |
-| 16.05 | #1 Praca nad tekstem    |
+| 16.05 | #1 Praca nad tekstem (spotkanie)   |
 | 23.05 | #2 Praca nad tekstem    |
 | 30.05 | #3 Praca nad tekstem    |
-| 6.06  | #4 Praca nad tekstem    |
+| 6.06  | #4 Praca nad tekstem (spotkanie)   |
 | 13.06 | Podsumowanie            |
 
 ### Polityka oceniania i (nie)obecności
 
 <details>
 	<summary> :warning: Nieobecności</summary>
-Jednorazowe nieobecności nie stanowią problemu, ale częstsze już tak: w trosce o jakość Waszej partycypacji w zajęciach i tego, co możecie z nich wynieść, zaliczenie przedmiotu może być w takim przypadku bardziej kłopotliwe. 3 i 4 nieobecność skutkuje koniecznością odrobienia zajęć (spojler: będę prosić o napisanie eseju). Więcej niż 4 nieobecności oznaczają niezaliczenie zajęć.
+Jednorazowe nieobecności nie stanowią problemu, ale częstsze już tak: w trosce o jakość Waszej partycypacji w zajęciach i tego, co możecie z nich wynieść, zaliczenie przedmiotu może być w takim przypadku bardziej kłopotliwe. 3 i 4 nieobecność skutkuje koniecznością odrobienia zajęć (spojler: będzie tekst do analizy). Więcej niż 4 nieobecności oznaczają niezaliczenie zajęć.
 </details>
 
 Maksymalnie można zdobyć :star2: 20 :star2: punktów, z czego:
