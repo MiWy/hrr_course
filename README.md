@@ -18,7 +18,7 @@ Jeśli masz trudności technologiczne lub zdrowotne, uniemożliwiające lub znac
 ### :e-mail: Kontakt i dyżury
 
 Napisz do nas na MS Teams albo wyślij e-mail:
-* dawid.ratajczyk [at] amu.edu.pl (dyżur xyz, 110AB/online)
+* dawid.ratajczyk [at] amu.edu.pl (dyżur pon 11-12, 110AB/online)
 * michal.wyrwa [at] amu.edu.pl (dyżur śr 8-9, 110AB/online)
 
 ### Organizacja
