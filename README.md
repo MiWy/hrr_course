@@ -47,7 +47,6 @@ Spotykamy się w **poniedziałki o 13:15-14:45 w s. 110 _na Międzychodzkiej!_**
 | 11.04 | #4 Prezentacja          | Spatola, N., Kühnlenz, B., & Cheng, G. (2021). Perception and evaluation in human–robot interaction: The Human–Robot Interaction Evaluation Scale (HRIES)—A multicomponent approach of anthropomorphism. International Journal of Social Robotics, 13(7), 1517-1539 |
 | 25.04 | #5 Prezentacja          | Nicolas, S., & Agnieszka, W. (2021). The personality of anthropomorphism: How the need for cognition and the need for closure define attitudes and anthropomorphic attributions toward robots. Computers in Human Behavior, 122, 106841 |
 | 9.05  | #6 Prezentacja          | Diel, A., Weigelt, S., & MacDorman, K. F. (2021). A Meta-analysis of the Uncanny Valley's Independent and Dependent Variables. ACM Transactions on Human-Robot Interaction (THRI), 11(1), 1-33 |
-
 | 16.05 | #1 Praca nad tekstem (spotkanie) | |
 | 23.05 | #2 Praca nad tekstem (konsultacje) | |
 | 30.05 | #3 Praca nad tekstem (konsultacje) | |
