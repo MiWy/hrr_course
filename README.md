@@ -25,8 +25,6 @@ Napisz do nas na MS Teams albo wyślij e-mail:
 
 Przedmiot podzielony jest na trzy bloki. Blok pierwszy to zajęcia organizacyjne i dwa wykłady wprowadzające w tematykę human-robot relations. Jest to też czas zapisu do grup pracujących później nad poszczególnymi raportami badawczymi.
 
-[Zapisy mają miejsce tutej]
-
 Blok drugi (21 marzec-9 maja) to czas bardziej Wasz :). Na podstawie świeżych raportów badawczych będziecie przygotowywać odpowiedzi na pytania do  (indywidualne) i (dwuosobowo) wygłaszać prezentacje. **!:warning:!: deadline dostarczenia notatek jest o tydzień wcześniejszy niż termin wygłoszenia prezentacji!**.
 
 Blok trzeci (16 maj-6 czerwiec) to czas wspólnego pisania zespołowego raportu końcowego. Każdy tydzień odpowiada pracy nad inną sekcją tekstu. Zaangażowanie każdej osoby ma znaczenie dla jakości całości (i ocen indywidualnych :)).
