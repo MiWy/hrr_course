@@ -25,13 +25,15 @@ Napisz do nas na MS Teams albo wyślij e-mail:
 
 Przedmiot podzielony jest na trzy bloki. Blok pierwszy to zajęcia organizacyjne i dwa wykłady wprowadzające w tematykę human-robot relations. Jest to też czas zapisu do grup pracujących później nad poszczególnymi raportami badawczymi.
 
+[Link do zapisu do grup prezentujących](https://uam-my.sharepoint.com/:w:/g/personal/mw34272_o365_amu_edu_pl/EauqRbqyrRZOk9BtKTYkE20BK4IlFVNPf6M20pS1tIqZug?e=0fctrq)
+
 Blok drugi (21 marzec-9 maja) to czas bardziej Wasz :). Na podstawie świeżych raportów badawczych będziecie przygotowywać odpowiedzi na pytania do  (indywidualne) i (dwuosobowo) wygłaszać prezentacje. **!:warning:!: deadline dostarczenia notatek jest o tydzień wcześniejszy niż termin wygłoszenia prezentacji!**.
 
 Blok trzeci (16 maj-6 czerwiec) to czas wspólnego pisania zespołowego raportu końcowego. Każdy tydzień odpowiada pracy nad inną sekcją tekstu. Zaangażowanie każdej osoby ma znaczenie dla jakości całości (i ocen indywidualnych :)).
 
 ### :calendar: Terminarz
 
-(Link do materiałów dostępny u prowadzących :imp:)
+([Link do materiałów](https://uam-my.sharepoint.com/:f:/g/personal/mw34272_o365_amu_edu_pl/EljXCk5MUmlMnUhRA7ESVM4BZ1mJWcLmQkkF7VEKr1dlzw?e=dTR6Jb))
 Spotykamy się w **poniedziałki o 13:15-14:45 w s. 110 _na Międzychodzkiej!_**
 
 | Data  | Temat                   | Materiał |
